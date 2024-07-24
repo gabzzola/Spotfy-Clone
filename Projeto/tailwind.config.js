@@ -13,8 +13,8 @@ module.exports = {
        'green-main': '#1ED760'
       },
       backgroundImage: theme => ({
-        'spotfy-theme': "url('src/images/bursts.svg')",
-        'spotfy-theme-mobile': "url('src/images/bursts-mobile.svg')"
+        'spotfy-theme': "url('../src/images/bursts.svg')",
+        'spotfy-theme-mobile': "url('../src/images/bursts-mobile.svg')"
       }),
       backgroundSize: {
         '175%': '175%',
